@@ -27,9 +27,9 @@
 
 ### 🌐 Frontend & Design
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,sass,vite,figma&perline=12&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,sass,vite,figma&perline=12&theme=light">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,sass,vite,figma&perline=12" alt="Frontend Stack" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,js,react,nextjs&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=html,css,js,react,nextjs&theme=light">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs" alt="Frontend Stack" />
 </picture>
 
 ### ⚙️ Backend & Architecture
@@ -41,9 +41,9 @@
 
 ### 🗄️ Database, Cloud & DevOps
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite,docker,azure,cloudflare,nginx,git,github,postman&perline=12&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite,docker,azure,cloudflare,nginx,git,github,postman&perline=12&theme=light">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite,docker,azure,cloudflare,nginx,git,github,postman&perline=12" alt="DevOps Stack" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres,git,github,docker&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=postgres,git,github,docker&theme=light">
+  <img src="https://skillicons.dev/icons?i=postgres,git,github,docker" alt="Database and DevOps Stack" />
 </picture>
 
 <br/>
