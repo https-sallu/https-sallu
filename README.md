@@ -1,6 +1,6 @@
 <div align="center">
-  <!-- Animated Waving Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ADD8&height=200&section=header&text=Hi%20👋,%20I'm%20Salman%20Abbas&fontSize=45&fontColor=ffffff&animation=twinkling" width="100%" alt="Header Background" />
+  <!-- Radiant Blue Waving Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001133,100:00ADD8&height=200&section=header&text=Hi%20👋,%20I'm%20Salman%20Abbas&fontSize=45&fontColor=ffffff&animation=twinkling" width="100%" alt="Header Background" />
 
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00ADD8&center=true&vCenter=true&width=600&lines=Crafting+robust+applications;Full+Stack+Developer;Golang+Enthusiast;Lifelong+Learner" alt="Typing SVG" /></a>
 
