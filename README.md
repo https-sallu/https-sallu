@@ -47,9 +47,11 @@
 </div>
 
 ## 🏆 GitHub Trophies
+<!-- 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=https-sallu&theme=shadow_blue&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </div>
+-->
 
 ### ✍️ Random Dev Quote
 <div align="center">
@@ -57,9 +59,11 @@
 </div>
 
 ### 🔝 Top Contributed Repo
+<!--
 <div align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=https-sallu&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
 </div>
+-->
 
 ---
 <div align="center">
