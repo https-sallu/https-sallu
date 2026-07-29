@@ -13,7 +13,7 @@
     <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=8B949E&center=true&vCenter=true&width=600&height=40&lines=Crafting+robust+applications;Full+Stack+Developer;Golang+Enthusiast;Lifelong+Learner">
   </picture>
 
-  <p>Architecting modern, interactive frontend interfaces and highly scalable backend systems. Passionate about writing clean code, optimizing performance, and building high-performance architectures.</p>
+  <p>Architecting modern, interactive frontend interfaces and highly scalable backend systems. Passionate about writing clean code, optimizing performance, and building high-performance architectures with Go.</p>
 
   <p>
     <a href="https://linkedin.com/in/salman-abbas-dev"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -34,9 +34,9 @@
 
 ### ⚙️ Backend & Architecture
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=go,python,cs,nodejs,fastapi,kafka&perline=12&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=go,python,cs,nodejs,fastapi,kafka&perline=12&theme=light">
-  <img src="https://skillicons.dev/icons?i=go,python,cs,nodejs,fastapi,kafka&perline=12" alt="Backend Stack" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=go&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=go&theme=light">
+  <img src="https://skillicons.dev/icons?i=go" alt="Backend Stack" />
 </picture>
 
 ### 🗄️ Database, Cloud & DevOps
