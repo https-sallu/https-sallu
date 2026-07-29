@@ -1,8 +1,9 @@
 <div align="center">
-  <!-- Modern Diagonal Slice Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:001133,100:00ADD8&height=200&section=header&text=Hi,%20I'm%20Salman%20Abbas&fontSize=50&fontColor=ffffff&animation=fadeIn&descAlignY=70&descAlign=60" width="100%" alt="Header Background" />
-
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00ADD8&center=true&vCenter=true&width=600&lines=Crafting+robust+applications;Full+Stack+Developer;Golang+Enthusiast;Lifelong+Learner" alt="Typing SVG" /></a>
+  <!-- Go-Themed Terminal Greeting -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&pause=2000&color=00ADD8&center=true&vCenter=true&width=800&height=120&lines=>+whoami;>+Salman+Abbas_;>+fmt.Println(%22Hi,+I'm+Salman%22);" alt="Terminal Greeting" />
+  
+  <!-- Sub-heading Roles -->
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=8B949E&center=true&vCenter=true&width=600&height=40&lines=Crafting+robust+applications;Full+Stack+Developer;Golang+Enthusiast;Lifelong+Learner" alt="Typing SVG" /></a>
 
   <p>Architecting modern, interactive frontend interfaces and highly scalable backend systems. Passionate about writing clean code, optimizing performance, and building high-performance architectures.</p>
 
@@ -11,6 +12,7 @@
     <a href="mailto:salmanabbas9150@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"></a>
   </p>
 </div>
+
 # 💻 Tech Stack:
 
 ### 🌐 Frontend & Design
