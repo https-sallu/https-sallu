@@ -1,4 +1,10 @@
-# Hi 👋, I'm Salman Abbas<br><br>### Crafting robust applications from front to back<br><br>💻 Full Stack Developer | ⚡ Golang Enthusiast | 🚀 Lifelong Learner<br><br>Architecting modern, interactive frontend interfaces and highly scalable backend systems. Passionate about writing clean code, optimizing performance, and building high-performance architectures with Go.
+# Hi 👋, I'm Salman Abbas
+
+### Crafting robust applications from front to back
+
+💻 Full Stack Developer | ⚡ Golang Enthusiast | 🚀 Lifelong Learner
+
+Architecting modern, interactive frontend interfaces and highly scalable backend systems. Passionate about writing clean code, optimizing performance, and building high-performance architectures with Go.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/salman-abbas-260468366) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:salmanabbas9150@gmail.com) 
@@ -21,5 +27,5 @@
 ![](https://github-contributor-stats.vercel.app/api?username=https-sallu&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=https-sallu&icon=4&color=1)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=https-sallu&icon=4&color=blue)](https://visitcount.itsvg.in)
 
