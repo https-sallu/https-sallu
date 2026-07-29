@@ -52,25 +52,25 @@
 <div align="center">
   <!-- Main Stats -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api?username=https-sallu&theme=shadow_blue&title_color=00ADD8&text_color=ffffff&hide_border=false&include_all_commits=true&count_private=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api?username=https-sallu&theme=default&title_color=0077B5&text_color=333333&hide_border=false&include_all_commits=true&count_private=true">
-    <img src="https://github-readme-stats.shion.dev/api?username=https-sallu&theme=shadow_blue&title_color=00ADD8&text_color=ffffff&hide_border=false&include_all_commits=true&count_private=true" alt="Salman's Stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api?username=salman-abbas-dev&theme=shadow_blue&title_color=00ADD8&text_color=ffffff&hide_border=false&include_all_commits=true&count_private=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api?username=salman-abbas-dev&theme=default&title_color=0077B5&text_color=333333&hide_border=false&include_all_commits=true&count_private=true">
+    <img src="https://github-readme-stats.shion.dev/api?username=salman-abbas-dev&theme=shadow_blue&title_color=00ADD8&text_color=ffffff&hide_border=false&include_all_commits=true&count_private=true" alt="Salman's Stats" />
   </picture>
   <br/><br/>
   
   <!-- Streak Stats -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=https-sallu&theme=shadow_blue&title_color=00ADD8&text_color=ffffff&sideNums=ffffff&sideLabels=00ADD8&currStreakNum=ffffff&dates=ffffff&hide_border=false">
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=https-sallu&theme=default&title_color=0077B5&text_color=333333&sideLabels=0077B5&hide_border=false">
-    <img src="https://streak-stats.demolab.com/?user=https-sallu&theme=shadow_blue&title_color=00ADD8&text_color=ffffff&sideNums=ffffff&sideLabels=00ADD8&currStreakNum=ffffff&dates=ffffff&hide_border=false" alt="Salman's Streak" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=salman-abbas-dev&theme=shadow_blue&title_color=00ADD8&text_color=ffffff&sideNums=ffffff&sideLabels=00ADD8&currStreakNum=ffffff&dates=ffffff&hide_border=false">
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=salman-abbas-dev&theme=default&title_color=0077B5&text_color=333333&sideLabels=0077B5&hide_border=false">
+    <img src="https://streak-stats.demolab.com/?user=salman-abbas-dev&theme=shadow_blue&title_color=00ADD8&text_color=ffffff&sideNums=ffffff&sideLabels=00ADD8&currStreakNum=ffffff&dates=ffffff&hide_border=false" alt="Salman's Streak" />
   </picture>
   <br/><br/>
   
   <!-- Top Languages -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=https-sallu&theme=shadow_blue&title_color=00ADD8&text_color=ffffff&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=https-sallu&theme=default&title_color=0077B5&text_color=333333&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
-    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=https-sallu&theme=shadow_blue&title_color=00ADD8&text_color=ffffff&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=salman-abbas-dev&theme=shadow_blue&title_color=00ADD8&text_color=ffffff&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=salman-abbas-dev&theme=default&title_color=0077B5&text_color=333333&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=salman-abbas-dev&theme=shadow_blue&title_color=00ADD8&text_color=ffffff&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
   </picture>
 </div>
 
@@ -79,9 +79,9 @@
 ## 🏙️ My Contributions
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/https-sallu/https-sallu/main/profile-3d-contrib/profile-night-rainbow.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/https-sallu/https-sallu/main/profile-3d-contrib/profile-green-animate.svg">
-    <img src="https://raw.githubusercontent.com/https-sallu/https-sallu/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub Contribution Calendar" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/salman-abbas-dev/salman-abbas-dev/main/profile-3d-contrib/profile-night-rainbow.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/salman-abbas-dev/salman-abbas-dev/main/profile-3d-contrib/profile-green-animate.svg">
+    <img src="https://raw.githubusercontent.com/salman-abbas-dev/salman-abbas-dev/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub Contribution Calendar" />
   </picture>
 </div>
 
@@ -89,9 +89,9 @@
 <!-- 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=https-sallu&theme=shadow_blue&no-frame=false&no-bg=false&margin-w=4">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=https-sallu&theme=flat&no-frame=false&no-bg=false&margin-w=4">
-    <img src="https://github-profile-trophy.vercel.app/?username=https-sallu&theme=shadow_blue&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=salman-abbas-dev&theme=shadow_blue&no-frame=false&no-bg=false&margin-w=4">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=salman-abbas-dev&theme=flat&no-frame=false&no-bg=false&margin-w=4">
+    <img src="https://github-profile-trophy.vercel.app/?username=salman-abbas-dev&theme=shadow_blue&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
   </picture>
 </div>
 -->
@@ -109,14 +109,14 @@
 <!--
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-contributor-stats.vercel.app/api?username=https-sallu&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-contributor-stats.vercel.app/api?username=https-sallu&limit=5&theme=default&combine_all_yearly_contributions=true">
-    <img src="https://github-contributor-stats.vercel.app/api?username=https-sallu&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-contributor-stats.vercel.app/api?username=salman-abbas-dev&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-contributor-stats.vercel.app/api?username=salman-abbas-dev&limit=5&theme=default&combine_all_yearly_contributions=true">
+    <img src="https://github-contributor-stats.vercel.app/api?username=salman-abbas-dev&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
   </picture>
 </div>
 -->
 
 ---
 <div align="center">
-  <a href="https://visitcount.itsvg.in"><img src="https://komarev.com/ghpvc/?username=https-sallu&icon=4&color=blue" alt="Profile Views" /></a>
+  <a href="https://visitcount.itsvg.in"><img src="https://komarev.com/ghpvc/?username=salman-abbas-dev&icon=4&color=blue" alt="Profile Views" /></a>
 </div>
