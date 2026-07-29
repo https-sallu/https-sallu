@@ -15,8 +15,8 @@ Architecting modern, interactive frontend interfaces and highly scalable backend
 ![](https://streak-stats.demolab.com/?user=https-sallu&theme=shadow_blue&title_color=00ADD8&text_color=ffffff&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=https-sallu&theme=shadow_blue&title_color=00ADD8&text_color=ffffff&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🐍 My Contributions
-![GitHub Contribution Grid Snake Animation](https://raw.githubusercontent.com/https-sallu/https-sallu/output/github-contribution-grid-snake.svg)
+## 🏙️ My Contributions
+![3D GitHub Contribution Calendar](https://raw.githubusercontent.com/https-sallu/https-sallu/main/profile-3d-contrib/profile-night-rainbow.svg)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=https-sallu&theme=shadow_blue&no-frame=false&no-bg=false&margin-w=4)
