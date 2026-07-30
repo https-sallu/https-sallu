@@ -34,10 +34,9 @@
 
 ### ⚙️ Backend & Architecture
 <picture>
-  <!-- No commas needed here since it's just Go! -->
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=go&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=go&theme=light">
-  <img src="https://skillicons.dev/icons?i=go" alt="Backend Stack" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=go%2Cnodejs&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=go%2Cnodejs&theme=light">
+  <img src="https://skillicons.dev/icons?i=go,nodejs" alt="Backend Stack" />
 </picture>
 
 ### 🗄️ Database, Cloud & DevOps
