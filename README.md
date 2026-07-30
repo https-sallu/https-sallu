@@ -58,13 +58,16 @@
   </picture>
   <br/><br/>
   
+ <div align="center">
   <!-- Streak Stats -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=salman-abbas-dev&theme=shadow_blue&title_color=00ADD8&text_color=ffffff&sideNums=ffffff&sideLabels=00ADD8&currStreakNum=ffffff&dates=ffffff&hide_border=false">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=salman-abbas-dev&theme=default&title_color=0077B5&text_color=333333&sideLabels=0077B5&hide_border=false">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=salman-abbas-dev&theme=shadow_blue&title_color=00ADD8&text_color=ffffff&sideNums=ffffff&sideLabels=00ADD8&currStreakNum=ffffff&dates=ffffff&hide_border=false" alt="Salman's Streak" />
-  </picture>
-  <br/><br/>
+  <a href="https://github.com/salman-abbas-dev">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=salman-abbas-dev&theme=shadow_blue&title_color=00ADD8&text_color=ffffff&sideNums=ffffff&sideLabels=00ADD8&currStreakNum=ffffff&dates=ffffff&hide_border=false&reset=1">
+      <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=salman-abbas-dev&theme=default&title_color=0077B5&text_color=333333&sideLabels=0077B5&hide_border=false&reset=1">
+      <img src="https://streak-stats.demolab.com/?user=salman-abbas-dev&theme=shadow_blue&title_color=00ADD8&text_color=ffffff&sideNums=ffffff&sideLabels=00ADD8&currStreakNum=ffffff&dates=ffffff&hide_border=false&reset=1" alt="Salman's Streak" />
+    </picture>
+  </a>
+</div>
   
   <!-- Top Languages -->
   <picture>
@@ -78,14 +81,11 @@
 
 ## 🏙️ My Contributions
 <div align="center">
-  <!-- Streak Stats -->
-  <a href="https://github.com/salman-abbas-dev">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=salman-abbas-dev&theme=shadow_blue&title_color=00ADD8&text_color=ffffff&sideNums=ffffff&sideLabels=00ADD8&currStreakNum=ffffff&dates=ffffff&hide_border=false&reset=1">
-      <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=salman-abbas-dev&theme=default&title_color=0077B5&text_color=333333&sideLabels=0077B5&hide_border=false&reset=1">
-      <img src="https://streak-stats.demolab.com/?user=salman-abbas-dev&theme=shadow_blue&title_color=00ADD8&text_color=ffffff&sideNums=ffffff&sideLabels=00ADD8&currStreakNum=ffffff&dates=ffffff&hide_border=false&reset=1" alt="Salman's Streak" />
-    </picture>
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/salman-abbas-dev/salman-abbas-dev/main/profile-3d-contrib/profile-night-rainbow.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/salman-abbas-dev/salman-abbas-dev/main/profile-3d-contrib/profile-green-animate.svg">
+    <img src="https://raw.githubusercontent.com/salman-abbas-dev/salman-abbas-dev/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub Contribution Calendar" />
+  </picture>
 </div>
 
 ## 🏆 GitHub Trophies
