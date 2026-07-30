@@ -27,18 +27,25 @@
 
 ### 🌐 Frontend & Design
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,js,react,nextjs&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=html,css,js,react,nextjs&theme=light">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html%2Ccss%2Cjs%2Creact%2Cnextjs&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=html%2Ccss%2Cjs%2Creact%2Cnextjs&theme=light">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs" alt="Frontend Stack" />
 </picture>
 
 ### ⚙️ Backend & Architecture
 <picture>
+  <!-- No commas needed here since it's just Go! -->
   <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=go&theme=dark">
   <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=go&theme=light">
   <img src="https://skillicons.dev/icons?i=go" alt="Backend Stack" />
 </picture>
 
+### 🗄️ Database, Cloud & DevOps
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres%2Cgit%2Cgithub%2Cdocker&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=postgres%2Cgit%2Cgithub%2Cdocker&theme=light">
+  <img src="https://skillicons.dev/icons?i=postgres,git,github,docker" alt="Database and DevOps Stack" />
+</picture>
 ### 🗄️ Database, Cloud & DevOps
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres,git,github,docker&theme=dark">
