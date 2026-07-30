@@ -41,9 +41,9 @@
 
 ### 🗄️ Database, Cloud & DevOps
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres%2Cgit%2Cgithub%2Cdocker&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=postgres%2Cgit%2Cgithub%2Cdocker&theme=light">
-  <img src="https://skillicons.dev/icons?i=postgres,git,github,docker" alt="Database and DevOps Stack" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres%2Cmysql%2Cmongo%2Cgit%2Cgithub%2Cdocker&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=postgres%2Cmysql%2Cmongo%2Cgit%2Cgithub%2Cdocker&theme=light">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongo,git,github,docker" alt="Database and DevOps Stack" />
 </picture>
 
 # 📊 GitHub Stats:
