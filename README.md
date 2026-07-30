@@ -1,16 +1,16 @@
 <div align="center">
   <!-- Adaptive Terminal Greeting -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&pause=2000&color=00ADD8&center=true&vCenter=true&width=800&height=120&lines=>+whoami;>+Salman+Abbas_;>+fmt.Println(%22Hi,+I'm+Salman%22);">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&pause=2000&color=0077B5&center=true&vCenter=true&width=800&height=120&lines=>+whoami;>+Salman+Abbas_;>+fmt.Println(%22Hi,+I'm+Salman%22);">
-    <img alt="Terminal Greeting" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&pause=2000&color=00ADD8&center=true&vCenter=true&width=800&height=120&lines=>+whoami;>+Salman+Abbas_;>+fmt.Println(%22Hi,+I'm+Salman%22);">
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=40&pause=2000&color=00ADD8&center=true&vCenter=true&width=800&height=120&lines=>+whoami;>+Salman+Abbas_;>+fmt.Println(%22Hi,+I'm+Salman%22);">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=40&pause=2000&color=0077B5&center=true&vCenter=true&width=800&height=120&lines=>+whoami;>+Salman+Abbas_;>+fmt.Println(%22Hi,+I'm+Salman%22);">
+    <img alt="Terminal Greeting" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=40&pause=2000&color=00ADD8&center=true&vCenter=true&width=800&height=120&lines=>+whoami;>+Salman+Abbas_;>+fmt.Println(%22Hi,+I'm+Salman%22);">
   </picture>
   
   <!-- Adaptive Sub-heading Roles -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=8B949E&center=true&vCenter=true&width=600&height=40&lines=Crafting+robust+applications;Full+Stack+Developer;Golang+Enthusiast;Lifelong+Learner">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=24292F&center=true&vCenter=true&width=600&height=40&lines=Crafting+robust+applications;Full+Stack+Developer;Golang+Enthusiast;Lifelong+Learner">
-    <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=8B949E&center=true&vCenter=true&width=600&height=40&lines=Crafting+robust+applications;Full+Stack+Developer;Golang+Enthusiast;Lifelong+Learner">
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=8B949E&center=true&vCenter=true&width=600&height=40&lines=Crafting+robust+applications;Full+Stack+Developer;Golang+Enthusiast;Lifelong+Learner">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=24292F&center=true&vCenter=true&width=600&height=40&lines=Crafting+robust+applications;Full+Stack+Developer;Golang+Enthusiast;Lifelong+Learner">
+    <img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=8B949E&center=true&vCenter=true&width=600&height=40&lines=Crafting+robust+applications;Full+Stack+Developer;Golang+Enthusiast;Lifelong+Learner">
   </picture>
 
   <p>Architecting modern, interactive frontend interfaces and highly scalable backend systems. Passionate about writing clean code, optimizing performance, and building high-performance architectures with Go.</p>
@@ -46,6 +46,8 @@
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongo,git,github,docker" alt="Database and DevOps Stack" />
 </picture>
 
+<br/>
+
 # 📊 GitHub Stats:
 <div align="center">
   <!-- Main Stats -->
@@ -58,9 +60,9 @@
   
   <!-- Streak Stats -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=salman-abbas-dev&theme=shadow_blue&title_color=00ADD8&text_color=ffffff&sideNums=ffffff&sideLabels=00ADD8&currStreakNum=ffffff&dates=ffffff&hide_border=false">
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=salman-abbas-dev&theme=default&title_color=0077B5&text_color=333333&sideLabels=0077B5&hide_border=false">
-    <img src="https://streak-stats.demolab.com/?user=salman-abbas-dev&theme=shadow_blue&title_color=00ADD8&text_color=ffffff&sideNums=ffffff&sideLabels=00ADD8&currStreakNum=ffffff&dates=ffffff&hide_border=false" alt="Salman's Streak" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=salman-abbas-dev&theme=shadow_blue&title_color=00ADD8&text_color=ffffff&sideNums=ffffff&sideLabels=00ADD8&currStreakNum=ffffff&dates=ffffff&hide_border=false">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=salman-abbas-dev&theme=default&title_color=0077B5&text_color=333333&sideLabels=0077B5&hide_border=false">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=salman-abbas-dev&theme=shadow_blue&title_color=00ADD8&text_color=ffffff&sideNums=ffffff&sideLabels=00ADD8&currStreakNum=ffffff&dates=ffffff&hide_border=false" alt="Salman's Streak" />
   </picture>
   <br/><br/>
   
